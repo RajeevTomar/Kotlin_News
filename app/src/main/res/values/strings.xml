@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="title_headlines">Headlines</string>
+
+    <string name="data_not_found">No Result found</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_connection">Please check your internet setting to work app in offline.</string>
+    <string name="no_internet_connection_msg">Kindly connect to internet only once to work app in offline mode</string>
+    <string name="retry">Retry</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
